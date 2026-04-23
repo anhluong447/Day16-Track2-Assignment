@@ -1,0 +1,11 @@
+{
+    "model_name": "LightGBM Synthetic Classification",
+    "instance_type": "t3.micro",
+    "training_time_seconds": 1.45,
+    "dataset_size": 10000,
+    "features_count": 20,
+    "test_api_status": "success",
+    "last_inference_probability": 0.9588011500516093,
+    "last_prediction": 1,
+    "cold_start_time_minutes": 12.5
+}
